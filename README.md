@@ -1,4 +1,4 @@
-### getPlaced - Your Placement Our Promise 
+### getPlaced - Your Placement Our Promise (Frontend Code)
 
 ## Tech-Stack
 Frontend: React, Redux, Saga, AntD
