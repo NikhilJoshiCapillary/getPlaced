@@ -2,6 +2,7 @@
 
 ## Tech-Stack
 Frontend: React, Redux, Saga, AntD
+
 Backend: Node, Express, Mongo, JWT
 
 ## Installation
@@ -11,7 +12,7 @@ Install dependencies using npm.
 
 `npm i`
 
-##Run Instructions
+## Run Instructions
 The server would start on port 3000.
 `npm start`
 
