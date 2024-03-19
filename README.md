@@ -1,10 +1,10 @@
-#getPlaced - Your Placement Our Promise 
+### getPlaced - Your Placement Our Promise 
 
-##Tech-Stack
+## Tech-Stack
 Frontend: React, Redux, Saga, AntD
 Backend: Node, Express, Mongo, JWT
 
-##Installation
+## Installation
 Dependencies should be installed using the npm command line tools.
 
 Install dependencies using npm.
