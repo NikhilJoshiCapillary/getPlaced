@@ -1,0 +1,26 @@
+/* *{
+    background-color: wheat
+} */
+.main-content{
+    height: 10rem;
+    background-color: pink;
+}
+
+.login-btn{
+   padding: 0.7rem;
+}
+
+.input-bars{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 43rem;
+    gap: 2rem;
+    padding: 5rem;
+    margin: -11rem;
+}
+
+.input-bar{
+    margin-bottom: -0.2rem;
+    width: 15rem;
+    padding: 0.5rem;
+}

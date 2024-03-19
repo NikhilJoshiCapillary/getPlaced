@@ -1,0 +1,81 @@
+/* * {
+  background-color: #f5a742;
+} */
+
+.main-content {
+
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 60%;
+  margin: auto;
+  gap: 10px;
+  margin-top: 10rem;
+  padding: 10%;
+}
+
+.inner-content{
+  padding-right: 3rem;
+  margin-top:-3rem;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  padding: 3%;
+  width: 40rem;
+}
+
+input{
+  height: 1.5rem;
+  width: 10%;
+}
+
+.input-container label {
+  width: 40%;
+}
+
+.input-field {
+  width: 60%;
+}
+
+.register-btn {
+  width: 45%;
+  margin: auto;
+  padding: 0.5rem;
+  margin-left: 12rem;
+  margin-top: 7%;
+}
+
+h1{
+  justify-content: center;
+}
+
+.register-header{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+}
+
+.login-area{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+p{
+  margin-top: 3rem;
+  margin-right: 160rem;
+  margin-left: -10rem;
+}
+
+.login-btn{
+  padding: 1rem;
+  margin-left: 45rem;
+  margin-top: 4rem;
+  order: -1;
+}
+
+
